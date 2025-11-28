@@ -1,0 +1,5 @@
+{
+  "name": "Visual Vocab",
+  "description": "A vocabulary learning app that generates quizzes from your drawings or sentences using AI.",
+  "requestFramePermissions": []
+}
